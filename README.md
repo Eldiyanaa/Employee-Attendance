@@ -7,4 +7,6 @@ Employee Management: Add employee information, including name, ID, and password.
 
 Attendance Recording: Record employee attendance with date.
 # Technologies Used
-Python
+Programming Language: Python
+
+Database: MySQL database
